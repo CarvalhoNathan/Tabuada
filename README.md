@@ -3,7 +3,7 @@
 Receba um número e logo em seguida exiba sua tabuada.
 
 Ex.:
-```
+```css
 Tabuada do número: 7
 
 7 x 0 = 0
